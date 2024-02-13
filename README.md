@@ -1,1 +1,1 @@
-Pricing Landing Page made by Aditya Kumar
+Subscription Pricing Page made by Aditya Kumar
